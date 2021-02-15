@@ -1,0 +1,46 @@
+Epoch 1
+Training loss: 1.492528463021303
+Validation loss: 1.4229686260223389
+F1 Score (Weighted): 0.29043604230044906
+Training completed in 0:00:16 (h:mm:ss)
+
+
+Epoch 2
+Training loss: 1.3069988978214753
+Validation loss: 0.9682790875434876
+F1 Score (Weighted): 0.6174993221699865
+Training completed in 0:00:31 (h:mm:ss)
+
+
+Epoch 3
+Training loss: 0.8192426470609812
+Validation loss: 0.7840716063976287
+F1 Score (Weighted): 0.7205855292201269
+Training completed in 0:00:47 (h:mm:ss)
+
+
+Epoch 4
+Training loss: 0.6122611165046692
+Validation loss: 0.7648286134004593
+F1 Score (Weighted): 0.7306507752745209
+Training completed in 0:01:02 (h:mm:ss)
+
+Best F1 Score (Weighted): 0.7306
+
+-----------------------------------------
+Best Epoch: Predictions And True Values
+
+Class: Artırılmış ve Sanal Gerçeklik
+Accuracy: 12/25
+
+Class: Görüntü İşleme
+Accuracy: 66/88
+
+Class: Haberleşme ve Sinyalleşme
+Accuracy: 39/43
+
+Class: IoT
+Accuracy: 17/36
+
+Class: Yapay Zeka
+Accuracy: 96/120
